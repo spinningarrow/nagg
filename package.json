@@ -1,0 +1,14 @@
+{
+  "name": "nagg",
+  "version": "0.0.1",
+  "description": "Not Another Git GUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sahil Bajaj",
+  "license": "ISC",
+  "dependencies": {
+    "nodegit": "^0.4.1"
+  }
+}
